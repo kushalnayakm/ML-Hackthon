@@ -9,9 +9,12 @@
 ## 👥 Team Members
 
 
- Kushal Nayak [https://github.com/kushalnayakm) 
+ Kushal Nayak [https://github.com/kushalnayakm)  
+ 
  Abhay H Bhargav  [https://github.com/Abhay-Bhargav) 
+ 
  Member 3 Name   [@member3-id](https://github.com/member3-id) 
+ 
  Member 4 Name   [@member4-id](https://github.com/member4-id) 
 
 ---
