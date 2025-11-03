@@ -1,5 +1,12 @@
 # 🤖 Hangman AI Solver (Q-Learning and HMM Hybrid)
 
+GROUP – 3 SECTION – A[AIML]
+Aditya Venkatesh SRN: PES1UG23AM024
+Abhay H Bhargav SRN: PES1UG23AM008
+Kushal Nayak M SRN: PES1UG24AM806
+Aaditya Singh SRN: PES1UG23AM002
+
+
 This repository contains an intelligent Hangman game solver that uses a **Reinforcement Learning** approach (Q-Learning) combined with a **Hidden Markov Model (HMM)-like probabilistic model** derived from word corpus statistics.
 
 The goal is to develop an agent that can guess the secret word with the highest possible success rate while minimizing incorrect and repeated guesses.
