@@ -9,13 +9,13 @@
 ## 👥 Team Members
 
 
- Kushal Nayak @kushalnayakm  
+ Kushal Nayak M
  
- Abhay H Bhargav  @Abhay-Bhargav 
+ Abhay H Bhargav  
  
- Aaditya Singh     @aaditya-singh23
+ Aaditya Singh    
  
-    [@member4-id](https://github.com/member4-id) 
+ Aditya VenKatesh
 
 ---
 
